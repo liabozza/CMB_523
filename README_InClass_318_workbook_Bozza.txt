@@ -1,0 +1,2 @@
+This READMEfile was made on 2024-03-26 by Lia Bozza. Title of submission: InClass_318_workbook_Bozza.Rmd. The purpose of this assignment was to practice solving FizzBuzz with a look in specific and generic number sets that it can be played with. Another task from this homework was to convert csv-->tsv-->csv files and order their data by index and name.
+Instrument: RStudio4
